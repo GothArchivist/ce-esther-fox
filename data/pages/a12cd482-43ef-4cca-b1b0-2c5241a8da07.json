@@ -848,10 +848,10 @@
   "created_at": "2026-02-20T18:45:42.867Z",
   "created_by": "GothArchivist",
   "title": "Eric “Isaak” Hauser Critical Edition",
-  "updated_at": "2026-02-20T19:59:32.484Z",
+  "updated_at": "2026-02-20T20:07:21.834Z",
   "updated_by": "GothArchivist",
   "autogenerate": {
-    "enabled": true,
+    "enabled": false,
     "type": "home"
   },
   "slug": "eric-isaak-hauser-critical-edition"
