@@ -4,7 +4,11 @@
       "label": "AV File 2",
       "file_url": "https://aviary-p-fortunoff.s3.wasabisys.com/collection_resource_files/resource_files/000/090/305/original/open-uri20200523-14798-lffdd1.mov?1590276895",
       "duration": 949.28333,
-      "file_type": "Video"
+      "file_type": "Video",
+      "set_sort": [
+        "aff240fe-bd67-4b02-9b86-a89bbb4996a2",
+        "5e0824a5-3eb6-4c5a-80a6-51298324b274"
+      ]
     }
   },
   "auto_generate_web_page": true,
@@ -21,7 +25,10 @@
   "created_at": "2026-02-20T19:05:54.902Z",
   "created_by": "GothArchivist",
   "label": "Media File 2 of 2 - open-uri20200523-14798-lffdd1.mov",
-  "updated_at": "2026-02-20T19:05:54.902Z",
+  "updated_at": "2026-02-20T19:09:28.779Z",
   "updated_by": "GothArchivist",
-  "rights_statement": ""
+  "rights_statement": "",
+  "av_file_order": [
+    "05b61db2-6956-4dda-8ace-a046c4368f85"
+  ]
 }
