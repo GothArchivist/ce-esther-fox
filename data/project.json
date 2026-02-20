@@ -4,7 +4,13 @@
     "publish_sha": "",
     "publish_iso_date": ""
   },
-  "users": [],
+  "users": [
+    {
+      "login_name": "GothArchivist",
+      "avatar_url": "https://avatars.githubusercontent.com/u/13787883?v=4",
+      "admin": true
+    }
+  ],
   "project": {
     "github_org": "GothArchivist",
     "is_private": false,
@@ -22,6 +28,27 @@
       "tags": []
     },
     "created_at": "2026-02-20T18:45:42.830Z",
-    "updated_at": "2026-02-20T18:45:42.830Z"
-  }
+    "updated_at": "2026-02-20T18:45:42.830Z",
+    "generate_pages_site": false
+  },
+  "annotations": {},
+  "events": {},
+  "eventOrder": [],
+  "pages": {
+    "a12cd482-43ef-4cca-b1b0-2c5241a8da07": {
+      "content": [],
+      "created_at": "2026-02-20T18:45:42.867Z",
+      "created_by": "GothArchivist",
+      "title": "Esther Fox Critical Edition",
+      "updated_at": "2026-02-20T18:45:42.867Z",
+      "updated_by": "GothArchivist",
+      "autogenerate": {
+        "enabled": true,
+        "type": "home"
+      }
+    }
+  },
+  "pageOrder": [
+    "a12cd482-43ef-4cca-b1b0-2c5241a8da07"
+  ]
 }
